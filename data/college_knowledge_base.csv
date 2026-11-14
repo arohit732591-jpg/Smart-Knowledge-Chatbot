@@ -1,0 +1,13 @@
+category,content,source
+Attendance,Students must maintain a minimum attendance of 80% in each subject to be eligible for semester examinations.,attendance_policy
+Attendance,Students with medical emergencies must submit valid medical certificates to the academic department.,attendance_policy
+Library,Students can borrow a maximum of 4 books at a time using their college identity card.,library_policy
+Library,"The college library operates from 9 AM to 5 PM, Monday through Saturday.",library_policy
+Library,Books must be returned within 14 days. Late returns may result in a fine.,library_policy
+Admissions,"Applicants must submit academic transcripts, identity proof, and completed application forms during admission.",admission_policy
+Admissions,Admission confirmation is provided after document verification and payment of the applicable admission fee.,admission_policy
+Placements,Students must maintain a minimum CGPA of 7.0 to participate in campus placement activities.,placement_policy
+Placements,"The placement department organizes aptitude training, technical workshops, and mock interviews.",placement_policy
+Examinations,Students must carry their college identity cards and examination hall tickets to enter the examination hall.,exam_policy
+Examinations,Students must arrive at the examination hall at least 15 minutes before the scheduled examination time.,exam_policy
+Fees,Students can pay their semester fees through the college payment portal before the announced deadline.,fee_policy

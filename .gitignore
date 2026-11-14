@@ -1,0 +1,12 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+chroma_db/
+test_env/
+venv/
+app/
+.vscode/
+college_chroma_db*/
+.DS_Store
+vectorstore/
+*.pyc
